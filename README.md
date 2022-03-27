@@ -8,3 +8,6 @@ The purpose of this module was to teach us how to use plotly-- a JavaScript libr
 - use event handlers to add interactivity to visualized data
 - enhance visualizations using interactivity
 - deploy an interactive chart to GitHub Pages
+ 
+ ## GitHub Page
+ https://smongu7.github.io/Plotly/
